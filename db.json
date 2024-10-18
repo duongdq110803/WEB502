@@ -1,0 +1,48 @@
+{
+  "products": [
+    {
+      "id": "2",
+      "name": "Product 2 đã up",
+      "price": 200,
+      "image": "https://picsum.photos/200/120"
+    },
+    {
+      "id": "3",
+      "name": "Product 3",
+      "price": 300,
+      "image": "https://picsum.photos/200/120"
+    },
+    {
+      "id": "4",
+      "name": "Product 3 update",
+      "price": 400,
+      "image": "https://picsum.photos/200/120"
+    },
+    {
+      "id": "5",
+      "name": "Product 5 update",
+      "price": 500,
+      "image": "https://picsum.photos/200/120"
+    },
+    {
+      "id": "52eb",
+      "name": "New Product 12",
+      "image": "13123",
+      "price": "10000"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "username": "user",
+      "password": "123456",
+      "email": "user@gmail.com"
+    },
+    {
+      "id": "2",
+      "username": "admin",
+      "password": "123456",
+      "email": "admin@gmail.com"
+    }
+  ]
+}
